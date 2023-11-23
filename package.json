@@ -1,0 +1,10 @@
+{
+  "name": "rspack-test",
+  "scripts": {
+    "dev": "rspack serve -c ./rspack.config.js"
+  },
+  "dependencies": {
+    "@rspack/cli": "^0.4.0",
+    "@rspack/core": "^0.4.0"
+  }
+}
